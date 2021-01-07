@@ -1,5 +1,5 @@
-owner: bitmama-reply
-repo: uptimemonitor
+owner: andou
+repo: bitmama-uptime
 
 sites:
   - name: Antonia IT
@@ -21,7 +21,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptimemonitor
+  baseUrl: /bitmama-uptime
   logoUrl: https://www.bitmama.it/Style%20Library/bitmama/img/bitmama-reply-new.png
   name: Bitmama Uptime Monitor
   introTitle: "**Bitmama** uptime monitoring"
