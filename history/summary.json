@@ -77,19 +77,17 @@
     "icon": "https://replytotem.com/wp-content/uploads/2020/12/cropped-4_6003508584883685819-32x32.png",
     "slug": "totem-en-homepage",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1410,
     "timeDay": 1410,
     "timeWeek": 1410,
     "timeMonth": 1410,
     "timeYear": 1410,
-    "dailyMinutesDown": {
-      "2021-01-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TOTEM > IT Homepage",
@@ -97,19 +95,17 @@
     "icon": "https://replytotem.com/wp-content/uploads/2020/12/cropped-4_6003508584883685819-32x32.png",
     "slug": "totem-it-homepage",
     "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 618,
     "timeDay": 618,
     "timeWeek": 618,
     "timeMonth": 618,
     "timeYear": 618,
-    "dailyMinutesDown": {
-      "2021-01-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ANTONIA > IT Homepage",
@@ -153,19 +149,17 @@
     "icon": "https://www.khrisjoy.com/media/favicon/default/favicon_V2.png",
     "slug": "khrisjoy-it-homepage",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1379,
     "timeDay": 1379,
     "timeWeek": 1379,
     "timeMonth": 1379,
     "timeYear": 1379,
-    "dailyMinutesDown": {
-      "2021-01-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KHRISJOY > US Homepage",
@@ -173,19 +167,17 @@
     "icon": "https://www.khrisjoy.com/media/favicon/default/favicon_V2.png",
     "slug": "khrisjoy-us-homepage",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 485,
     "timeDay": 485,
     "timeWeek": 485,
     "timeMonth": 485,
     "timeYear": 485,
-    "dailyMinutesDown": {
-      "2021-01-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PHILIPPE MATIGNON > IT Homepage",
