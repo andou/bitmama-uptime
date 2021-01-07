@@ -14,7 +14,7 @@ sites:
     url: https://www.zegnagroup.com/it/
   - name: Zegna Forest
     url: https://zegnaforest.fondazionezegna.org/it/  
- - name: Giro D'Italia
+  - name: Giro D'Italia
     url: https://www.giroditalia.it/
     
 status-website:
