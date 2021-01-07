@@ -77,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/replytotem.com",
     "slug": "totem-en-homepage",
     "status": "up",
-    "uptime": "92.45%",
-    "uptimeDay": "92.45%",
-    "uptimeWeek": "92.45%",
-    "uptimeMonth": "92.45%",
-    "uptimeYear": "92.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1314,
     "timeDay": 1314,
     "timeWeek": 1314,
     "timeMonth": 1314,
     "timeYear": 1314,
-    "dailyMinutesDown": {
-      "2021-01-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TOTEM > IT Homepage",
@@ -97,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/replytotem.com",
     "slug": "totem-it-homepage",
     "status": "up",
-    "uptime": "92.45%",
-    "uptimeDay": "92.45%",
-    "uptimeWeek": "92.45%",
-    "uptimeMonth": "92.45%",
-    "uptimeYear": "92.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 593,
     "timeDay": 593,
     "timeWeek": 593,
     "timeMonth": 593,
     "timeYear": 593,
-    "dailyMinutesDown": {
-      "2021-01-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ANTONIA > IT Homepage",
@@ -153,19 +149,17 @@
     "icon": "https://favicons.githubusercontent.com/www.khrisjoy.com",
     "slug": "khrisjoy-it-homepage",
     "status": "up",
-    "uptime": "92.49%",
-    "uptimeDay": "92.49%",
-    "uptimeWeek": "92.49%",
-    "uptimeMonth": "92.49%",
-    "uptimeYear": "92.49%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1433,
     "timeDay": 1433,
     "timeWeek": 1433,
     "timeMonth": 1433,
     "timeYear": 1433,
-    "dailyMinutesDown": {
-      "2021-01-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KHRISJOY > US Homepage",
@@ -173,19 +167,17 @@
     "icon": "https://favicons.githubusercontent.com/www.khrisjoy.com",
     "slug": "khrisjoy-us-homepage",
     "status": "up",
-    "uptime": "92.49%",
-    "uptimeDay": "92.49%",
-    "uptimeWeek": "92.49%",
-    "uptimeMonth": "92.49%",
-    "uptimeYear": "92.49%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 513,
     "timeDay": 513,
     "timeWeek": 513,
     "timeMonth": 513,
     "timeYear": 513,
-    "dailyMinutesDown": {
-      "2021-01-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PHILIPPE MATIGNON > IT Homepage",
