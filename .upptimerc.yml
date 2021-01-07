@@ -2,21 +2,43 @@ owner: andou
 repo: bitmama-uptime
 
 sites:
-  - name: Antonia IT
-    url: https://www.antonia.it/it
-  - name: Antonia US
-    url: https://www.antonia.it/us/
-  - name: Nexi AEM HP
+  - name: NEXI > AEM HP
     url: https://www.nexi.it/shop
-  - name: Nexi Configuratore SmartPOS
+  - name: NEXI > Login Page
+    url: https://www.nexi.it/shop/cart/customer/account/login
+  - name: NEXI > Configuratore SmartPOS
     url: https://www.nexi.it/shop/cart/smartpos.html?m=wifi
-  - name: Zegna Group
+  - name: BITMAMA > IT HOMEPAGE
+    url: https://www.bitmama.it/
+  - name: TOTEM > EN Homepage
+    url: https://replytotem.com/
+  - name: TOTEM > IT Homepage
+    url: https://replytotem.com/it/
+  - name: ANTONIA > IT Homepage
+    url: https://www.antonia.it/it
+  - name: ANTONIA > US Homepage
+    url: https://www.antonia.it/us/
+  - name: KHRISJOY > IT Homepage
+    url: https://www.khrisjoy.com/it/
+  - name: KHRISJOY > US Homepage
+    url: https://www.khrisjoy.com/us/
+  - name: PHILIPPE MATIGNON > IT Homepage
+    url: https://www.philippematignon.it/pm_it/
+  - name: PHILIPPE MATIGNON > EN Homepage
+    url: https://www.philippematignon.it/pm_en/
+  - name: ZEGNA > Zegna Group
     url: https://www.zegnagroup.com/it/
-  - name: Zegna Forest
-    url: https://zegnaforest.fondazionezegna.org/it/  
-  - name: Giro D'Italia
+  - name: ZEGNA > Zegna Forest
+    url: https://zegnaforest.fondazionezegna.org/it/
+  - name: Giro D'Italia > IT Homepage
     url: https://www.giroditalia.it/
-    
+  - name: Giro D'Italia > EN Homepage
+    url: https://www.giroditalia.it/en/
+  - name: Giro D'Italia > IT Media Center
+    url: https://www.giroditalia.it/media-center/sport/news/
+  - name: Giro D'Italia > IT Percorso
+    url: https://www.giroditalia.it/il-percorso/
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
