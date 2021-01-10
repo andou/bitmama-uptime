@@ -41,18 +41,18 @@
     "icon": "https://www.nexi.it/etc/designs/mos/favicon/apple-touch-icon-60x60.png",
     "slug": "nexi-configuratore-smart-pos",
     "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.56%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 2287,
     "timeDay": 2293,
     "timeWeek": 2287,
     "timeMonth": 2287,
     "timeYear": 2287,
     "dailyMinutesDown": {
-      "2021-01-10": 20
+      "2021-01-10": 21
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://replytotem.com/wp-content/uploads/2020/12/cropped-4_6003508584883685819-32x32.png",
     "slug": "totem-it-homepage",
     "status": "up",
-    "uptime": "87.67%",
-    "uptimeDay": "61.08%",
-    "uptimeWeek": "87.67%",
-    "uptimeMonth": "87.67%",
-    "uptimeYear": "87.67%",
+    "uptime": "87.65%",
+    "uptimeDay": "61.01%",
+    "uptimeWeek": "87.65%",
+    "uptimeMonth": "87.65%",
+    "uptimeYear": "87.65%",
     "time": 776,
     "timeDay": 818,
     "timeWeek": 776,
     "timeMonth": 776,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2021-01-10": 560
+      "2021-01-10": 561
     }
   },
   {
@@ -155,18 +155,18 @@
     "icon": "https://www.khrisjoy.com/media/favicon/default/favicon_V2.png",
     "slug": "khrisjoy-it-homepage",
     "status": "up",
-    "uptime": "87.67%",
-    "uptimeDay": "61.08%",
-    "uptimeWeek": "87.67%",
-    "uptimeMonth": "87.67%",
-    "uptimeYear": "87.67%",
+    "uptime": "87.65%",
+    "uptimeDay": "61.01%",
+    "uptimeWeek": "87.65%",
+    "uptimeMonth": "87.65%",
+    "uptimeYear": "87.65%",
     "time": 1712,
     "timeDay": 1679,
     "timeWeek": 1712,
     "timeMonth": 1712,
     "timeYear": 1712,
     "dailyMinutesDown": {
-      "2021-01-10": 560
+      "2021-01-10": 561
     }
   },
   {
@@ -175,18 +175,18 @@
     "icon": "https://www.khrisjoy.com/media/favicon/default/favicon_V2.png",
     "slug": "khrisjoy-us-homepage",
     "status": "up",
-    "uptime": "87.67%",
-    "uptimeDay": "61.08%",
-    "uptimeWeek": "87.67%",
-    "uptimeMonth": "87.67%",
-    "uptimeYear": "87.67%",
+    "uptime": "87.65%",
+    "uptimeDay": "61.01%",
+    "uptimeWeek": "87.65%",
+    "uptimeMonth": "87.65%",
+    "uptimeYear": "87.65%",
     "time": 530,
     "timeDay": 536,
     "timeWeek": 530,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2021-01-10": 560
+      "2021-01-10": 561
     }
   },
   {
