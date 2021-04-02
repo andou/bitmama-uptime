@@ -54,6 +54,27 @@ sites:
   - name: Giro D'Italia > IT Percorso
     url: https://www.giroditalia.it/il-percorso/
     icon: https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/favicon-giro.png
+  - name: Strade Bianche > HP IT
+    url: https://www.strade-bianche.it/
+    icon: https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/favicon-giro.png
+  - name: Tirreno Adriatico > HP IT
+    url: https://www.tirrenoadriatico.it/
+    icon: https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/favicon-giro.png
+  - name: Milano Sanremo > HP IT
+    url: https://www.milanosanremo.it/
+    icon: https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/favicon-giro.png
+  - name: Milano Torino > HP IT
+    url: https://www.milanotorino.it/
+    icon: https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/favicon-giro.png
+  - name: Gran Piemonte > HP IT
+    url: https://www.ilgranpiemonte.it/
+    icon: https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/favicon-giro.png
+  - name: Il Lombardia > HP IT
+    url: https://www.ilombardia.it/
+    icon: https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/favicon-giro.png
+  - name: Giro Di Sicilia > HP IT
+    url: https://ilgirodisicilia.it/
+    icon: https://components2.rcsobjects.it/rcs_sport_giro2020-layout/v0/assets/img/ext/favicon-giro.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
